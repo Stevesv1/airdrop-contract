@@ -3,9 +3,6 @@ npm install --save-dev hardhat@^2.24.0 @nomicfoundation/hardhat-toolbox@^5.0.0 @
 ```
 
 ```
-npx hardhat
-```
-```
 npx hardhat compile
 ```
 ```
